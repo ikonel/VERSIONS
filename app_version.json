@@ -1,7 +1,7 @@
 {
         "firmware": [
             {
-                "software": "v2.3.3+37",
+                "software": "v2.2.3+35",
                 "hardware": [
                     "Android",
                     "IOS"
