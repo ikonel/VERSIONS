@@ -1,3 +1,18 @@
 {
-    "app_version": "2.2.3+35"
-}
+        "firmware": [
+            {
+                "software": "v2.3.3+37",
+                "hardware": [
+                    "Android",
+                    "IOS"
+                ]
+            },
+            {
+                "software": "v0.1.1+30",
+                "hardware": [
+                    "Android",
+                    "IOS"
+                ]
+            }
+        ]
+    }
