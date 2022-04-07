@@ -3,7 +3,6 @@
             {
                 "software": "v2.2.3+35",
                 "hardware": [
-                    "Android",
                     "IOS"
                 ]
             },
