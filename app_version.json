@@ -1,25 +1,7 @@
 {
         "firmware": [
                 {
-                "software": "v2.3.6+41",
-                "hardware": [
-                    "Android"
-                ]
-            },
-            {
-                "software": "v2.2.5+38",
-                "hardware": [
-                    "Android"
-                ]
-            },
-            {
-                "software": "v2.2.4+37",
-                "hardware": [
-                    "Android"
-                ]
-            },
-            {
-                "software": "v2.2.3+35",
+                "software": "v1.0.0+1",
                 "hardware": [
                     "Android"
                 ]
